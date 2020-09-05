@@ -9,7 +9,7 @@ docker run -ti --rm --network=host -e DISPLAY=$DISPLAY -v $HOME/.Xauthority:/hom
 
 #### Execute in container
 
-source /Xilinx/Vivado/2018.3/settings64.sh
+source /Xilinx/Vivado/2020.1/settings64.sh
 
 
 
