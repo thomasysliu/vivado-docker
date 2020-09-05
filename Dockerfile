@@ -1,5 +1,5 @@
 # Pull base image.
-FROM ubuntu:18.10
+FROM ubuntu:19.10
 
 # docker build --build-arg UNAME=$USER --build-arg UID=$(id -u) --build-arg GID=$(id -g) -f Dockerfile -t myvivado .
 # docker run myvivado
